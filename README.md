@@ -34,7 +34,6 @@
 
 ---
 
-
 <h4 align="left">Databases</h4>
 <p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
@@ -87,6 +86,66 @@ Here are some of the key projects I’ve worked on:
 
 <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
 
+  #### 🚀 **E-commerce Data Analytics & Recommendation Engine**
+  - **Objective**: Developed a data-driven recommendation system to personalize the shopping experience for users, increasing conversion rates.
+  - **Technologies Used**: Python, SQL, Machine Learning, Power BI.
+  - **Key Contributions**:
+    - Implemented a recommendation engine using collaborative filtering.
+    - Analyzed customer purchasing behavior and trends.
+    - Created interactive Power BI dashboards to visualize sales data and trends.
+
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+
+  #### 🚀 **Predictive Analytics for Business Forecasting**
+  - **Objective**: Built a predictive model for forecasting sales and demand, enabling the business to optimize inventory management.
+  - **Technologies Used**: Python, Scikit-Learn, Pandas, Power BI.
+  - **Key Contributions**:
+    - Utilized machine learning techniques to forecast product demand.
+    - Created predictive models for sales analysis.
+    - Presented results using interactive Power BI visualizations to key stakeholders for decision-making.
+
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+
+  #### 🚀 **Mobile Application Data Integration and Analytics**
+  - **Objective**: Integrated data analytics features into a mobile application, enabling users to track and visualize their personal data (e.g., health or finance).
+  - **Technologies Used**: React Native, Python, SQL, Firebase.
+  - **Key Contributions**:
+    - Integrated analytics tools for tracking key metrics in real-time.
+    - Created back-end infrastructure to store and retrieve data for user analytics.
+    - Developed interactive charts and visualizations for easy interpretation of personal data.
+
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+
+  #### 🚀 **Automated Data Pipeline for Real-Time Reporting**
+  - **Objective**: Developed an automated ETL pipeline for processing real-time data and providing business insights on the fly.
+  - **Technologies Used**: Python, SQL, Apache Kafka, Docker.
+  - **Key Contributions**:
+    - Designed and implemented a scalable ETL pipeline using Apache Kafka and Python.
+    - Automated data extraction, transformation, and loading for real-time reporting.
+    - Reduced data processing time by 30% and improved decision-making speed for business leaders.
+
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+
+  #### 🚀 **Database Optimization & Performance Tuning**
+  - **Objective**: Improved the performance of a large-scale database by optimizing queries and indexes, leading to faster data retrieval.
+  - **Technologies Used**: MySQL, PostgreSQL, SQL Server.
+  - **Key Contributions**:
+    - Conducted query optimization to improve database performance.
+    - Designed and implemented indexes to speed up data retrieval.
+    - Analyzed and identified bottlenecks in the system, improving overall system performance by 40%.
+
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
+
   #### 🚀 **Business Intelligence and Data Migration Project**
   - **Objective**: Optimized data management by migrating from Excel-based storage to a relational database, improving data quality, performance, and analytical capabilities.
   - **Technologies Used**: Oracle Database, SQL, Power BI, Python, ETL tools.
@@ -120,6 +179,8 @@ Here are some of the key projects I’ve worked on:
     - Provided data-driven recommendations to optimize business processes.
 
 </div>
+
+---
 
 ### 📊 GitHub Stats  
 
