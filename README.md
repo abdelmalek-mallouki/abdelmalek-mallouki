@@ -34,18 +34,6 @@
 
 ---
 
-<h4 align="left">Data Engineering & Big Data</h4>
-<p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="80" /></a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" alt="Hadoop" width="80" /></a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="80" /></a>
-  <a href="https://www.dremio.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dremio/dremio-ar21.svg" alt="Dremio" width="80" /></a>
-  <a href="https://www.min.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/minio/minio/master/.github/logo.svg?sanitize=true" alt="MinIO" width="80" /></a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/></a>
-  <a href="https://nifi.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" alt="NiFi" width="40" height="40"/></a>
-</p>
-
----
 
 <h4 align="left">Databases</h4>
 <p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
@@ -95,36 +83,43 @@
 ---
 
 ### 📊 PROJECTS  
-Here are a few recent projects I’ve worked on:
+Here are some of the key projects I’ve worked on:
 
 <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
 
-  #### 🚀 **Sales Predictive Analysis**
-  - Built a model to predict sales trends using regression and classification techniques.
-  - Tools: Python, SQL.
-  - **[Know more](#)**
+  #### 🚀 **Business Intelligence and Data Migration Project**
+  - **Objective**: Optimized data management by migrating from Excel-based storage to a relational database, improving data quality, performance, and analytical capabilities.
+  - **Technologies Used**: Oracle Database, SQL, Power BI, Python, ETL tools.
+  - **Key Contributions**:
+    - Migrated data from Excel to a relational database system, ensuring data integrity and efficiency.
+    - Improved data quality and performance for better analysis and reporting.
+    - Designed and developed interactive dashboards and reports in Power BI to provide actionable business insights.
 
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   
-  #### 🚀 **E-Commerce Website**
-  - Developed an interactive platform for managing orders and improving the customer shopping experience.
-  - Tools: HTML, CSS, PHP, MySQL.
-  - **[Know more](#)**
-  
+  #### 🚀 **Data Migration and Database Management**
+  - **Objective**: Migrated data from Excel sheets to a structured relational database, cleaning and transforming the data for analysis.
+  - **Technologies Used**: SQL Server, Python, ETL processes.
+  - **Key Contributions**:
+    - Cleaned and structured data to ensure high-quality input for business intelligence.
+    - Automated data pipelines for ongoing data transformation and migration.
+    - Enhanced data accessibility and usability for analytical purposes.
+
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px; margin-bottom: 10px;">
   
-  #### 🚀 **Student Management Mobile Application**
-  - Created a cross-platform mobile app for managing school administration tasks and improving operational efficiency.
-  - Tools: Flutter, Firebase.
-  - **[Know more](#)**
-  
-</div>
+  #### 🚀 **Data Analysis & Insights Generation**
+  - **Objective**: Extracted actionable insights from large datasets to enable better decision-making for business operations.
+  - **Technologies Used**: Power BI, Python.
+  - **Key Contributions**:
+    - Analyzed large datasets to uncover patterns, trends, and actionable insights.
+    - Developed visual reports and dashboards to help stakeholders understand key performance indicators.
+    - Provided data-driven recommendations to optimize business processes.
 
----
+</div>
 
 ### 📊 GitHub Stats  
 
