@@ -13,7 +13,7 @@
 </p>
 
 <p align="center" style="font-size: 18px;">
-  📧 Email: <a href="mailto:abdelmalek14mallouki@gmail.com">abdelmalek14mallouki@gmail.com</a> <br>
+  📧 Email: <a href="mailto:abdlmalek.mallouki@gmail.com">abdelmalek14mallouki@gmail.com</a> <br>
   📱 Téléphone: <a href="tel:+212681726740">+212 681 726 740</a>
 </p>
 
